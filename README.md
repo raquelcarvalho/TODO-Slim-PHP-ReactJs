@@ -12,7 +12,7 @@ $ git clone https://github.com/raquelcarvalho/TODO-Slim-PHP-ReactJs.git
 ### 1- INSTALLATION BACK-END:
 
 ```bash
-$ cd backend
+$ cd TODO-Slim-PHP-ReactJs/backend
 $ cp .env.example .env
 $ composer install
 ```
@@ -71,7 +71,7 @@ $ php -S 0.0.0.0:8080 -t public public/index.php
 ### 1- INSTALLATION FRONT-END:
 
 ```bash
-$ cd frontend
+$ cd TODO-Slim-PHP-ReactJs/frontend
 $ npm i
 $ npm run den
 ```
